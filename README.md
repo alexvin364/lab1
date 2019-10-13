@@ -1,1 +1,1 @@
-# lab1
+https://github.com/kib-courses/dsis/tree/master/laba_01
